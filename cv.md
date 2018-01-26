@@ -1,6 +1,7 @@
 ## miltonlab CV 
 
-1.Datos Informativos | 
+###1.Datos Informativos
+
 ---------------------- | ---------------------
 *Nombres y apellidos:* | Milton Leonardo Labanda Jaramillo
 *Cédula o pasaporte:* | 1103499966
@@ -14,7 +15,7 @@
 *Título(s) de posgrado:* | Máster Oficial en Software Libre (UOC). Nro. Registro en Ecuador - SENESCYT: 6740R-13-25825
 *Nivel de Inglés:* | 
 
-2.Experiencia Académica como Docente Universitario 
+###2.Experiencia Académica como Docente Universitario 
 
 Institución, carrera/titulación y tipo | Asignatura(s) | Período(s)
 ----------------------|-------------------|---------------------
