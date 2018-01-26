@@ -18,5 +18,5 @@
 Institución, carrera/titulación y tipo | Asignatura(s) | Período(s)
 ----------------------|-------------------|---------------------
 Universidad Nacional de Loja [UNL](http:///www.unl.edu.ec), Carrera de Ingeniería en Sistemas, Público|Programación I, Programación II, Programación Básica, Programación Avanzada, Diseño y Gestión de Bases de Datos, Taller de Bases de Datos SQLServer, Análisis y Diseño de Sistemas, Mantenimiento de Computadoras, Estructuras de Datos II, Ingeniería del Software I, Taller Programación Java, Taller Bases de Datos MySQL, Lenguaje Ensamblador.|Octubre 2002 - Febrero 2012
-Universidad Internacional del Ecuador [UIDE](http://www.uide.edu), Escuela de Informática y Multimedia; Privada|Estructuras de Datos, Proyectos Informáticos, Programación Orientada a Objetos, Diseño Gráfico|Abril 2015 – Febrero 2016
+Universidad Internacional del Ecuador [UIDE](http://www.uide.edu.ec), Escuela de Informática y Multimedia; Privada|Estructuras de Datos, Proyectos Informáticos, Programación Orientada a Objetos, Diseño Gráfico|Abril 2015 – Febrero 2016
 Universidad Nacional de Loja [UNL](http:///www.unl.edu.ec), Carrera de Ingeniería en Sistemas; Público|Proyectos Informáticos I, Programación II|Agosto 2017 – actualidad
