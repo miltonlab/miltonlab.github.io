@@ -16,6 +16,6 @@
 
 2.Experiencia Académica como Docente Universitario 
 Institución, carrera/titulación y tipo|Asignatura(s)|Período(s)
-----------------------|----------------------------------------
+----------------------|-------------------|---------------------
 Universidad Nacional de Loja, Carrera de Ingeniería en Sistemas, Público|Programación I, Programación II, Programación Básica, Programación Avanzada, Diseño y Gestión de Bases de Datos, Taller de Bases de Datos SQLServer, Análisis y Diseño de Sistemas, Mantenimiento de Computadoras, Estructuras de Datos II, Ingeniería del Software I, Taller Programación Java, Taller Bases de Datos MySQL, Lenguaje Ensamblador.|Octubre 2002 - Febrero 2012
 
