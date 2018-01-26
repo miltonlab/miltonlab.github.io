@@ -9,8 +9,8 @@
 *Código ORDID:* | http://orcid.org/0000-0001-7370-3901
 *Perfil en Google Académico:* | 
 *Página Web o blog:* | http://1000tonlab.wordpress.com
-*Título(s) de grado:* | Ingeniero en Informática (UTPL) Nro. Registro en Ecuador - SENESCYT: 1031-04-486297
-*Título(s) de posgrado:* | Máster Oficial en Software Libre (UOC). Nro. Registro en Ecuador - SENESCYT: 6740R-13-25825
+*Título(s) de grado:* | Ingeniero en Informática ([UTPL](http://www.utpl.edu.ec)) Nro. Registro en Ecuador - SENESCYT: 1031-04-486297
+*Título(s) de posgrado:* | Máster Oficial en Software Libre ([UOC](http://www.uoc.edu)). Nro. Registro en Ecuador - SENESCYT: 6740R-13-25825
 *Nivel de Inglés:* | 
 
 ### 2. Experiencia Académica como Docente Universitario 
