@@ -1,7 +1,7 @@
 ## miltonlab CV 
 
 ### 1.Datos Informativos
-|<td colspan=2> Datos Informativos|
+|Datos Informativos||
 ---------------------- | ---------------------
 *Nombres y apellidos:* | Milton Leonardo Labanda Jaramillo
 *Cédula o pasaporte:* | 1103499966
